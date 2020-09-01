@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson 21 Two Activity</string>
+    <string name="goBtn_textOne">GO to Activity One</string>
+    <string name="goBtn_textTwo">GO to Activity Two</string>
+    <string name="goBtn_textThree">GO to Activity Three</string>
+</resources>

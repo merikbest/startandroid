@@ -1,3 +1,8 @@
+include ':lesson26_intentFilter'
+include ':lesson24_activityLifecycle'
+include ':lesson21_twoactivity'
+include ':lesson21_twoActivity'
+include ':lesson20_animation'
 include ':lesson19_SimpleCalculator'
 include ':lesson18_changingLayoutParams'
 include ':lesson17creatingAViewComponent'
