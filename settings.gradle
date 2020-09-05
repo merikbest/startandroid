@@ -1,3 +1,5 @@
+include ':lesson28_extras'
+include ':lesson27_actionIntent'
 include ':lesson26_intentFilter'
 include ':lesson24_activityLifecycle'
 include ':lesson21_twoactivity'
